@@ -22,8 +22,8 @@ I enjoy solving real-world problems using **Machine Learning & Deep Learning**.
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: [Your Email]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 📧 Email: [aniketdas20190@gmail.com]  
+- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/aniket-das-842791278/)]  
 - 📝 Portfolio: [Your Portfolio Website]  
 
 ---
