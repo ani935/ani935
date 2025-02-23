@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @ani935
-- 👀 I’m interested in AI AND ML
-- 🌱 I’m currently learning CSE WITH AI AND ML
+# 📌 Aniket Das | AI/ML Developer  
 
-- 📫 How to reach me 
-- 😄 Pronouns: HIM/HE
-  
+👋 Hi, I'm Aniket Das, an **AI/ML Developer** with a passion for **Web Development**.  
+I enjoy solving real-world problems using **Machine Learning & Deep Learning**.  
 
-<!---
-ani935/ani935 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me  
+- 🔭 Currently working on **Pneumonia Prediction Project**  
+- 💡 Exploring **AI & Web Development**  
+- 💻 Skilled in **Python**  
+- 🛠️ Frameworks & Libraries:  
+  - `Pandas`, `Scikit-Learn`, `Matplotlib`, `Seaborn`, `NumPy`, `TensorFlow`  
+- 🌱 Learning **Advanced Deep Learning Techniques**  
+
+---
+
+## 📈 GitHub Stats  
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AniketDas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketDas&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [Your Email]  
+- 💼 LinkedIn: [Your LinkedIn Profile]  
+- 📝 Portfolio: [Your Portfolio Website]  
+
+---
+
+🚀 **Let's build something amazing together!** ✨  
